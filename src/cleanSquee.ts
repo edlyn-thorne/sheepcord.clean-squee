@@ -51,7 +51,7 @@ interface IVoiceChannelEffectSendEvent {
     animationId: number;
 }
 
-const soundEffectURL = "https://raw.githubusercontent.com/MeguminSama/VencordPlugins/main/plugins/moyai/moyai.mp3";
+const soundEffectURL = "https://github.com/edlyn-thorne/sheepcord.clean-squee/raw/main/assets/cleanSquee.mp3";
 
 const pluginSettings = definePluginSettings({
     volume: {
